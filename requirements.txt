@@ -1,0 +1,22 @@
+# has to be install
+
+react-router-dom
+react-icons --save
+react-scroll
+--save aos@next
+react-simple-typewriter
+react-slick --save
+slick-carousel --save
+
+redux
+@reduxjs/toolkit
+redux-perist
+react-redux
+
+npm i jwt-decode
+# for video
+--save agora-rtc-sdk-ng
+
+# for pdf
+npm install jspdf
+npm install jspdf-autotable

@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components{
+    .card{
+        @apply rounded-xl shadow-lg bg-slate-800
+    }
+    .homevideocard{
+        @apply rounded-xl shadow-lg bg-white
+    
+    }
+}
+
+.slick-slide > div {
+    margin: 0 5px;
+  }
